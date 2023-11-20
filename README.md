@@ -10,3 +10,7 @@
 6.
 
 ![image](https://github.com/sathwik2610/1BM21AI069_OOP-LAB/assets/136416967/b7fb1bf4-729d-4174-81a1-fdb18d9d007e)
+
+7.
+
+![image](https://github.com/sathwik2610/1BM21AI069_OOP-LAB/assets/136416967/15b6aa44-1296-47ad-8b68-a37ed703d8f7)
