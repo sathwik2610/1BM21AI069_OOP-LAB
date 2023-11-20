@@ -1,0 +1,6 @@
+def largest_element(li):
+    num1=0
+    for num in li:
+        if num>num1:
+            num1=num
+    return(num1)
