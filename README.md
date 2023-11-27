@@ -31,3 +31,6 @@
 
 11.
 ![image](https://github.com/sathwik2610/1BM21AI069_OOP-LAB/assets/136416967/1b735ec8-8122-4401-a0d1-8935fdd51cb3)
+
+12.
+![image](https://github.com/sathwik2610/1BM21AI069_OOP-LAB/assets/136416967/fbac0149-442a-4529-ada9-4905f15b44d6)
