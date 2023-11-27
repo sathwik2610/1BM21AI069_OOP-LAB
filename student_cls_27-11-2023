@@ -1,0 +1,17 @@
+class student:
+    counter = 0
+    def __init__(self,n,m):
+        self.name=n
+        self.marks=m
+        student.counter+=1
+    def disp(self):
+        print(self.name)
+        print(self.marks)
+    def obj_count():
+        print(student.counter)              
+if __name__=='__main__':
+    s1=student('sathwik',20)
+    s2=student('pratham',21)
+    s1.disp()
+    s2.disp()
+    student.obj_count()
