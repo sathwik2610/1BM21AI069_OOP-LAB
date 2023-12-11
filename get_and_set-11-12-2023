@@ -1,0 +1,17 @@
+class Age: 
+    def __init__(self, age = 0): 
+         self._age = age 
+
+    def get_age(self): 
+        return self._age 
+  
+    def set_age(self, x): 
+        self._age = x 
+  
+Yrat = Age() 
+ 
+Yrat.set_age(18) 
+ 
+print(Yrat.get_age()) 
+  
+print(Yrat._age) 
